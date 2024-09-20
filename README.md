@@ -9,5 +9,5 @@
   - 특수 효과
 
 * 깃으로 관리
-
-  [Google 바로가기](https://www.google.com "google link")
++ 깃허브 페이지 사용해서 배포(Deploy) 함
+  [배포](https://www.google.com "google link")
